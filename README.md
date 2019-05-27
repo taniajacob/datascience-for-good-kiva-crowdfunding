@@ -1,5 +1,6 @@
 # datascience-for-good-kiva-crowdfunding
 Data Science for Good: Kiva Crowdfunding
+Link to the Kaggle challenge: https://www.kaggle.com/taniaj/kiva-crowdfunding-targeting-poverty-national/#data
 
 Kiva is an online crowdfunding platform to extend financial services to poor and financially excluded people around the world.
 
